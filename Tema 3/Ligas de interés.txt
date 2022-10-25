@@ -1,1 +1,39 @@
 Servicios Cognitivos - Visión artificial
+
+Computer Vision
+
+	Documentación:
+	https://learn.microsoft.com/es-mx/azure/cognitive-services/computer-vision/	
+
+	Pruebas:
+	https://southcentralus.dev.cognitive.microsoft.com/docs/services/computer-vision-v3-2/operations/56f91f2e778daf14a499f21b/console
+
+Face
+	Documentación:
+	https://learn.microsoft.com/es-mx/azure/cognitive-services/computer-vision/overview-identity	
+
+	Pruebas:
+	https://southcentralus.dev.cognitive.microsoft.com/docs/services/563879b61984550e40cbbe8d/operations/563879b61984550f30395236
+
+Custom Vision
+
+	Documentación:
+	https://learn.microsoft.com/es-mx/azure/cognitive-services/custom-vision-service/	
+	
+	Portal:
+	https://www.customvision.ai	
+
+	Pruebas:
+	https://westus.dev.cognitive.microsoft.com/docs/services/Custom_Vision_Prediction_3.1/operations/5eb37d24548b571998fde5f3
+
+Form Recognizer
+
+	Documentación:
+	https://learn.microsoft.com/es-mx/azure/applied-ai-services/form-recognizer/
+	
+	Portal:
+	https://formrecognizer.appliedai.azure.com/studio
+
+	Pruebas:
+	https://westus.dev.cognitive.microsoft.com/docs/services/form-recognizer-api-v2-1/operations/AnalyzeBusinessCardAsync
+
