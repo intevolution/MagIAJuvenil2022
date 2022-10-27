@@ -1,0 +1,33 @@
+Servicios Cognitivos - Idioma
+
+Language
+
+	Documentación:
+	https://learn.microsoft.com/en-us/azure/cognitive-services/luis/
+	https://learn.microsoft.com/en-us/azure/cognitive-services/qnamaker/
+	https://learn.microsoft.com/en-us/azure/cognitive-services/language-service/			
+
+	Portal:
+	https://language.cognitive.azure.com/
+
+Translator
+
+	Documentación:
+	https://learn.microsoft.com/en-us/azure/cognitive-services/translator/
+	https://learn.microsoft.com/es-mx/azure/cognitive-services/translator/custom-translator/overview
+
+	Portal:
+	https://portal.customtranslator.azure.ai
+
+Servicios Cognitivos - Voz
+
+Speech
+	Documentación:
+	https://learn.microsoft.com/es-mx/azure/cognitive-services/speech-service/	
+
+	Pruebas:
+	https://azure.microsoft.com/es-es/products/cognitive-services/speech-to-text/#features
+	https://azure.microsoft.com/es-es/products/cognitive-services/text-to-speech/
+	https://azure.microsoft.com/es-es/products/cognitive-services/speech-translation/
+
+
